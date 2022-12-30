@@ -15,8 +15,8 @@
     "Title": {
       "type": "string"
     },
-    "Link": {
-      "type": "string"
+    "Slug": {
+      "type": "uid"
     }
   }
 }
